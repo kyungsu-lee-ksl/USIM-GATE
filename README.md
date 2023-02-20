@@ -189,7 +189,7 @@ __[USIM-GATE]__ Pipeline of the USIM Gate (UG). The Attention Gate generates the
 
 ## Conference
 
-This paper is accepted in Artificial Intelligence and Statistics 2023 Conference.
+This paper is accepted in **Artificial Intelligence and Statistics (AISTATS) 2023** Conference.
 
 ## Authors
 Kyungsu Lee, Haeyun Lee, and Jae Youn Hwang*
