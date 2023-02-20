@@ -1,7 +1,7 @@
 ## Preparations
 ### 1. Download Codes
-    $ git clone 
-    $ cd 
+    $ git clone https://github.com/kyungsu-lee-ksl/USIM-GATE
+    $ cd USIM-GATE-main
 
 
 ### 2. Primary Environment
