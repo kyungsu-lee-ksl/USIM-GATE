@@ -187,6 +187,10 @@ __[USIM-GATE]__ Pipeline of the USIM Gate (UG). The Attention Gate generates the
 
 # [PAPER] USIM Gate: UpSampling Module for Segmenting Precise Boundaries concerning Entropy
 
+## Conference
+
+This paper is accepted in Artificial Intelligence and Statistics 2023 Conference.
+
 ## Authors
 Kyungsu Lee, Haeyun Lee, and Jae Youn Hwang*
 
